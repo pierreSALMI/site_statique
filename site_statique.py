@@ -12,7 +12,7 @@ def converter(input_directory,output_directory):
     for i in directory:
         if ".md" in i:
             nb_md += 1
-
+            
             #lecture des fichiers markdown
             html = markdown2.markdown(open(input_directory+"\\"+i, mode='r').read()) #markdown to htlm
 
