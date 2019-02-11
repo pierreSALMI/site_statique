@@ -9,4 +9,4 @@ Pour utiliser le programme il vous faut installer:
 * les librairies : os, markdown2, click
 
 ## Utilisation :
-Pour uttiliser le programme il vous faut compléter les lignes de commande suivant : `python <Path_to_the_program>/static_website_gen.py --input_directory <Path_of_your_input_folder> --output_directory <Path_to_your_output_folder>`
+Pour utiliser le programme il vous faut compléter les lignes de commande suivant : `python <Path_to_the_program>/static_website_gen.py --input_directory <Path_of_your_input_folder> --output_directory <Path_to_your_output_folder>`
